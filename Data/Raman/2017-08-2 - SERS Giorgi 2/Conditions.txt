@@ -1,0 +1,7 @@
+August 2nd - 17:15
+
+Integ Time: 5000 ms
+Scan to Average: 3
+Boxcar width: 10
+Laser intensity: .491
+Height: 5.2 mm

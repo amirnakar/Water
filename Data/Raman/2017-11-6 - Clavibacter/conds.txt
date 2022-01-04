@@ -1,0 +1,11 @@
+I = 0.7
+T = 40s
+StA = 3
+v = 1 ml
+
+Sampls: 
+X5 DW
+X5 EC1
+X5 EC10
+X5 BS1
+X5 BS10

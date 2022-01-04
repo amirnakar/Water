@@ -1,0 +1,14 @@
+t=30
+i = 1
+v = 300uL
+each conc n=20
+each sample n=2
+samples need to be at ~room temp
+naming: 
+date_conc=X
+
+2018-2-8_conc=6_RamanShift_07
+
+also scan dark and ethanol X3 times
+
+laser is turned on ~80% (so there are about 6 sec of illumination before scan)

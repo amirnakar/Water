@@ -1,0 +1,18 @@
+samples of 400uL in aluminum cup.
+laser intensity = 1
+time = 40 X 3 to average
+height was optimized with ethanol (<1sec integration time looking for max peaks)
+
+Samples were made using Korotin protocol, i.e: 
+1. Growing lawns of Clavibacter
+2. adding 1 ml of saline to the lawn plate
+3. scraping the lawn and taking the solution created
+4. diluting is saline to OD=1
+5. serial 1:10 dilutions. 
+
+samples used: 
+saline (control)
+1:10
+1:10^2
+1:10^3
+1:10^4

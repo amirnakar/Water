@@ -1,0 +1,3 @@
+Time: 5s
+I: 0.5
+Height: 6 (optimized)

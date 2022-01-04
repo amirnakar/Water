@@ -1,0 +1,11 @@
+Each sample was scanned 3 times, each concentration had 5 samples
+
+integration time = 5 sec
+laser intensity = 0.5
+height of probe = 1.5 mm
+
+all tube caps were facing the door of the black box.
+
+room temp was 16
+
+each sample was homogenized with the finger before scanning

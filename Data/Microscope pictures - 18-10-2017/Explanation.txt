@@ -1,0 +1,10 @@
+Done with a darkfield microscope
+18-10-2017
+
+
+ecoli1_10 - X50 magnification, bacteria concentraion = 10^7
+ecoli1_1 - X50 magnification, bacteria concentraion = 10^8
+bacilus1_1 - X50 magnification, bacteria concentraion = 10^8
+fractured_dw_m50 - X50 magnification, no bacteria, focused on a fracture
+fractured_dw_m20 - X20 magnification, no bacteria, focused on a fracture
+dw_m100_area_with dots - X100 magnification of "intact" area. focused on the dots. no bacteria
